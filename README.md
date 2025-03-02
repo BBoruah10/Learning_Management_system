@@ -102,7 +102,8 @@ The application will run at: **`http://localhost:5173`**
 ---
 
 ## **📷 Screenshots**
-_Add relevant screenshots of the LMS UI here._
+### **Login Page**
+![Login Page](https://github.com/BBoruah10/Learning_Management_system/blob/main/Screenshot%202025-03-02%20210117.png)
 
 ---
 
