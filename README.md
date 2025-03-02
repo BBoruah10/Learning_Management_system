@@ -97,7 +97,7 @@ cd client
 npm run dev
 ```
 
-The application will run at: **`http://localhost:5173`** (or as specified in your React setup).
+The application will run at: **`http://localhost:5173`** 
 
 ---
 
@@ -113,7 +113,7 @@ This project is licensed under the **MIT License**.
 
 ## **📩 Contact**
 For any queries or contributions, feel free to contact:
-📧 Email: `your-email@example.com`
-🔗 GitHub: [your-github-profile](https://github.com/YOUR_GITHUB_USERNAME)
+📧 Email: `baruahbhaskar10@gmail.com`
+🔗 GitHub: [your-github-profile](https://github.com/BBoruah10)
 
 ---
